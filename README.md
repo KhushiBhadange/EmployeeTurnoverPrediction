@@ -32,12 +32,3 @@ The objective of the present report is to study factors like salary, satisfactor
   * When you have talented employee’s we need to find ways that you can help expand the employee’s skill set, so that their involvement in the job increases. If their involvement is low, they will get bored and think that they are not growing within the organization
 
 
-
-
-
-
-### License & CopyRight
-Copyright (c) 2018 [Niranjan Kumar](https://www.linkedin.com/in/niranjankumar-c/) Licensed under the [MIT License](LICENSE)
-
-### Trademarks
-All other trademarks referenced herein are the property of their respective owners.
