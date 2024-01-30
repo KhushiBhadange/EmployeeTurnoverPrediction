@@ -33,10 +33,6 @@ The objective of the present report is to study factors like salary, satisfactor
 
 
 
-## Repository Contains
- - Data Folder -- Contains Raw Data Files (Data can be downloaded from [kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset))
- - [AttritionAnalysis report](Attrition_Analysis_report.pdf) -- Employee Attrition Analysis Project Summary Report
- - [Employee-Attrition-Analysis_DT](Employee-Attrition-Analysis_DT.ipynb) -- Project Source Code File
 
 
 
